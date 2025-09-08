@@ -3,6 +3,10 @@
 A simple **iOS note-taking app** built with **SwiftUI** in Xcode.  
 The app integrates with **Firebase (Firestore + Auth)** for cloud storage and authentication, and includes a **custom app icon** generated with the help of ChatGPT.
 
+## Demo
+
+![Demo](demo.gif)
+
 ---
 
 ## ✨ Features
