@@ -1,7 +1,7 @@
 # 📒 Note-Taking App (iOS + Firebase)
 
 A simple **iOS note-taking app** built with **SwiftUI** in Xcode.  
-The app integrates with **Firebase (Firestore + Auth)** for cloud storage and authentication, and includes a **custom app icon** generated with the help of ChatGPT.
+The app integrates with **Firebase (Firestore)** for cloud storage and authentication, and includes a **custom app icon** generated with the help of ChatGPT.
 
 ## Demo
 
@@ -29,9 +29,9 @@ The app integrates with **Firebase (Firestore + Auth)** for cloud storage and au
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/your-username/FirstProgramming.git
-cd FirstProgramming
-open FirstProgramming.xcodeproj
+git clone https://github.com/ShanaFlash/FirstProgrammingNoteApp.git
+cd FirstProgrammingNoteApp
+open FirstProgrammingNoteApp.xcodeproj
 ```
 
 ### 3. Add Firebase config
@@ -62,14 +62,6 @@ open FirstProgramming.xcodeproj
 
 ---
 
-## 📚 References
-
-1. [Firebase iOS Setup Docs](https://firebase.google.com/docs/ios/setup) — SDK installation and Firestore setup  
-2. [Apple Developer Docs](https://developer.apple.com/documentation/) — Xcode signing & device setup  
-3. ChatGPT — Assisted with SwiftUI code, debugging Firebase SDK version issues, generating README + app icon  
-4. YouTube tutorials — Firestore CRUD examples in SwiftUI  
-
----
 
 ## 🐛 Debugging Notes
 
@@ -84,7 +76,6 @@ open FirstProgramming.xcodeproj
 
 ## 🔗 Repo & Backend
 
-- GitHub Repo: [https://github.com/your-username/FirstProgramming](https://github.com/your-username/FirstProgramming)  
 - Backend: Firebase Firestore (anonymous auth)  
 
 ---
@@ -92,14 +83,11 @@ open FirstProgramming.xcodeproj
 ## 📜 Git History & Collaboration
 
 - **Initial commit** — Base SwiftUI project  
-- **Firebase integration** — Added Firestore + Auth  
+- **Firebase integration** — Added Firestore
 - **CRUD operations** — Implemented note create/read/update/delete  
 - **Bugfixes** — Fixed version conflicts and signing errors  
 - **Final polish** — Added custom logo, updated README  
 
-> I collaborated with my partner by sharing commits, debugging together, and dividing tasks. We used GitHub commits and comments to coordinate and learned that clear communication and consistent commit messages improve collaboration.
-
----
 
 ## 🚀 Future Work
 
@@ -114,4 +102,4 @@ open FirstProgramming.xcodeproj
 
 - Firebase Team  
 - Apple Developer Documentation  
-- ChatGPT (for coding assistance, explanations, and logo generation)  
+
